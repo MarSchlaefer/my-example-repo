@@ -7,3 +7,5 @@ line #3 of text
 this is a new line
 
 commit 1
+
+commit 2
